@@ -1,5 +1,5 @@
 # spine-runtimes-for-python
-从spine runtimes翻译来的纯python版本
+从spine runtimes TypeScript翻译来的纯python版本
 
 
 # Pay attention to
